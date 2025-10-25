@@ -115,7 +115,7 @@ export default function Dashboard() {
                 placeholder="https://your-api.vercel.app"
                 className="w-full px-4 py-2 border rounded-lg text-black"
                 required
-              </input>
+              />
             </div>
             <button
               type="submit"
